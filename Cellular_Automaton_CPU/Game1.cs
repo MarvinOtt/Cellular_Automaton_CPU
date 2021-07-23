@@ -19,7 +19,7 @@ using FormClosingEventArgs = System.Windows.Forms.FormClosingEventArgs;
 using Form = System.Windows.Forms.Form;
 using Keys = Microsoft.Xna.Framework.Input.Keys;
 
-namespace Celluar_Automaton_CPU
+namespace Cellular_Automaton_CPU
 {
     public class Game1 : Game
     {

@@ -9,7 +9,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Celluar_Automaton_CPU
+namespace Cellular_Automaton_CPU
 {
     public class Simulator
     {

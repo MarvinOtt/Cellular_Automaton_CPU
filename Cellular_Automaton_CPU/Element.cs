@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Xna.Framework.Graphics;
 
-namespace Celluar_Automaton_CPU
+namespace Cellular_Automaton_CPU
 {
     public class Element
     {

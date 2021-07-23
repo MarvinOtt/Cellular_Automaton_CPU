@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Celluar_Automaton_CPU
+namespace Cellular_Automaton_CPU
 {
     public static class Program
     {

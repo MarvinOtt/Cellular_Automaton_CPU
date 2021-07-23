@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Celluar_Automaton_CPU", "Celluar_Automaton_CPU\Celluar_Automaton_CPU.csproj", "{4B9F10EC-05D7-4CEF-8FBD-62E19056738B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cellular_Automaton_CPU", "Cellular_Automaton_CPU\Cellular_Automaton_CPU.csproj", "{4B9F10EC-05D7-4CEF-8FBD-62E19056738B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
